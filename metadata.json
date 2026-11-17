@@ -1,0 +1,8 @@
+{
+  "name": "Abyssinia Games",
+  "description": "Birr-based online gaming platform featuring 8 browser arcade and live round games, configurable odds, cashout mechanics, and Telebirr wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
